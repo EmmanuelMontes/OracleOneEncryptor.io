@@ -1,0 +1,4 @@
+#This is the main file for the exclude of commit these filetypes.
+
+*.zip
+*.txt
